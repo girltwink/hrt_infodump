@@ -65,6 +65,17 @@ https://transfemscience.org/articles/cpa-dosage/
 Cyproterone Acetate (CPA) is a very cheap, very effective anti-androgen, especially when combined with estrogen. This will nuke your testosterone levels, and 'downstairs' function. 
 You'll usually find it in 50mg pills, but should only take **at maximum** 12.5mg (1/4 pill) daily. Ideally, you should start at a quarter pill a week, and increase the dose based off necessity of testosterone suppression. *get a pill cutter* - you can usually get one from any local pharmacy. This is to reduce the risks of long-term, high-dose side effects that have been observed. Low doses of CPA are maximally effective for testosterone suppression.
 
+## Progesterone
+Progesterone is one of the other sex hormones produced for the menstrual cycle and is important in cis women's bodies.
+Progesterone can be considered as it may have some desirable feminisation effects in transitioning. Progesterone is not necessary for transfeminine medical transitioning, however it figures to reason that it is desirable for trans women if cis women also have progesterone.
+
+There is little 'official' research into the effects of progesterone in transfeminine people, however common anecdotes include helping to 'round out' breast growth after the third tanner stage. It's also reported to increase libido, improve fat redistribution, and have inherent anti-androgenic effects.
+
+
+There is a very informative document as to the effects of progesterone in transfeminine people [here](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/)
+
+Progesterone is most efficient when taken rectally. You gotta boof it. You'll find it in 100mg and 200mg gel capsules. Oral progesterone loses the majority of its efficacy.
+
 ## Important notes
 **All forms of estrogen will increase your risk of blood clots.** Cis women carry this risk too. Higher the estradiol level, higher the risk. Oral estrogen carries a higher risk due to it being metabolised by the liver.
 
@@ -76,31 +87,39 @@ Cyproterone Acetate has been observed to have a heightened risk of complications
 https://transfemscience.org/articles/cpa-meningioma/
 
 ## Blood Tests
-When on HRT, it is important to get blood tests to measure hormone (and other relevant tests) levels. It's useful to make a spreadsheet to keep track of these.
+When on HRT, it is necessary to get blood tests to measure hormone (and other relevant tests) levels. Without them, you may not know if the dose you are on is right for you.
+It's useful to make a spreadsheet to keep track of blood test results. Data is cute.
+
 It's beneficial, but not necessary, to get a blood test done before you start HRT.
 You should ideally get blood tests done at following marks:
-* 1 Month HRT
-* 3 Months HRT
+* 1-2 Month HRT
 * 6 Months HRT
-* ... and every 6 months afterwards.
+* ... and every 6 months to 1 year afterwards.
+
 Depending on HRT regimen, you should get different tests, but critically you need Estradiol (E2) and Testosterone measured every time.
 
 * Stop taking all vitamin supplements at least 3 days before your blood test
 * It's preferred to have bloods taken at a trough rather than a peak - i.e right before you'd normally take your next dose.
-* You should be able to request blood tests from your local doctor. These may be done in-house, or at a local hospital. [[#Communicating with doctors]]
+* You should be able to request blood tests [from your local doctor](#communicating-with-doctors). These may be done in-practice, or at a local hospital. 
 
 ### Estradiol Monotherapy
 Required every time: Estradiol, Testosterone
-Useful to have: Sex Hormone Binding Globulin (SHBG), Albumin, Prolactin, Full Blood Count (FBC), Dihydrotestosterone (DHT)
+
+Useful to have: SHBG, Albumin, Prolactin, FBC, DHT
 
 ### Estradiol + Cyproterone Acetate
 Required every time: Estradiol, Testosterone, Prolactin
+
 Useful to have: B12, Liver Function Test, SHBG, Albumin, FBC, DHT
 
 ### Estradiol + Bicalutamide
 Required every time: Estradiol, Testosterone, Liver Function Test
+
 Useful to have: SHBG, Albumin, Prolactin, FBC, DHT
 
+* SHBG = Sex Hormone Binding Globulin
+* FBC = Full Blood Count
+* DHT = Dihydrotestosterone
 
 ## Communicating with doctors
 ### Overview
@@ -110,7 +129,7 @@ There's an incomplete list of trans-friendly GPs put together by the community h
 If you are DIYing, it's important for your doctor or GP to be aware. You should tell them what medication you are taking and at what doses.
 ### Requesting healthcare
 #### Blood tests
-You can request blood tests from your GP or registered doctors surgery. Be sure to specifically request the required levels, and triple check they are being tested on the day.
+You can request blood tests from your GP or registered doctors surgery. Be sure to specifically request the required tests, and triple check they are being tested on the day.
 You'll need to mention:
 * You are going to be transitioning
 * You are going to be taking HRT
@@ -118,6 +137,7 @@ You'll need to mention:
 * You are requesting blood tests to measure hormone levels
 * This is to ensure you're on a safe dose
 * It would be in the interest of **harm reduction** to provide you these
+
 #### HRT prescriptions
 A doctor may issue a prescription for HRT whilst you are waiting for an NHS GIC or private care. This is referred to as a 'bridging prescription'. This is ideal, but quite rare. 
 You may try your luck with requesting this. I've had success by insisting the following:
@@ -132,10 +152,10 @@ You may try your luck with requesting this. I've had success by insisting the fo
 
 
 ## Sourcing
-* *[https://hrt.coffee/](https://hrt.coffee/ "https://hrt.coffee/")
+* [https://hrt.coffee/](https://hrt.coffee/ "https://hrt.coffee/")
 * [https://diyhrt.cafe/](https://diyhrt.cafe/ "https://diyhrt.cafe/") 
 * [https://diyhrt.market/](https://diyhrt.market/ "https://diyhrt.market/") 
-These are directories of well vetted, community-vouched-for HRT sources. These are overseas pharmacies that allow purchasing of HRT. It it legal to DIY HRT. Most sources support bank transfer payments, but you might need to use a payment provider like Wise, WesternUnion, etc. Cryptocurrencies may also work. Personally i've bought from GoodStuffStore, FavskinHouse, and UnitedPharmacies. 
+These are directories of well vetted, community-vouched-for HRT sources. These sources are usually overseas pharmacies that allow purchasing of HRT. It it legal to DIY HRT. Most sources support bank transfer payments, but you might need to use a payment provider like Wise, WesternUnion, etc. Cryptocurrencies may also work. Personally i've bought from GoodStuffStore, FavskinHouse, and UnitedPharmacies. 
 
 
 # Further Reading
