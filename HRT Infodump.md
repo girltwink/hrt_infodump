@@ -86,7 +86,19 @@ Cyproterone may cause side effects including increased prolactin levels and depr
 Cyproterone Acetate has been observed to have a heightened risk of complications including meningioma (small benign brain tumours). These risks have primarily been observed in extremely high doses of 50-100mg/day, for extended periods of time. These risks are still present, but **much** lower in doses relevant to transfeminine people. Due to only small doses being necessary for testosterone suppression, it's generally considered safe for HRT purposes.
 https://transfemscience.org/articles/cpa-meningioma/
 
-## Blood Tests
+# FtM
+
+## Overview
+
+## Testosterone
+
+### Gel
+
+### Injections
+
+### Sourcing
+
+# Blood Tests
 When on HRT, it is necessary to get blood tests to measure hormone (and other relevant tests) levels. Without them, you may not know if the dose you are on is right for you.
 It's useful to make a spreadsheet to keep track of blood test results. Data is cute.
 
@@ -161,8 +173,8 @@ These are directories of well vetted, community-vouched-for HRT sources. These s
 # Further Reading
 For more information, including other guides and community resources, check out:
 * [DIYHRT Wiki](https://diyhrt.wiki/)
-* *[Transfeminine Science - Well written articles about HRT ](https://transfemscience.org/)
-* [GenderKit UK](https://genderkit.org.uk/)
+* [Transfeminine Science - Well written articles about HRT](https://transfemscience.org/)
+* [GenderKit UK - Information resource, not just HRT](https://genderkit.org.uk/)
 * [TransgenderUK Subreddit](https://reddit.com/r/transgenderUK)
 * [TransDIY Subreddit](https://reddit.com/r/TransDIY)
 * [MtF HRT groups.io](https://groups.io/g/MTFHRT/)
